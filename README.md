@@ -100,19 +100,6 @@ yarn build
 
 The built files will be in the \`dist\` directory.
 
-## Project Structure
-
-\`\`\`
-rbac-admin-dashboard/
-├── src/
-│   ├── components/        # React components
-│   ├── store/            # Zustand store
-│   ├── App.jsx           # Main App component
-│   └── main.jsx         # Entry point
-├── public/              # Static assets
-├── index.html          # HTML template
-└── package.json        # Project dependencies
-\`\`\`
 
 ## Contributing
 
